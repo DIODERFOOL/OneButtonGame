@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="UniBulletHell" t="Include">
+          <e p="Example" t="Include">
+            <e p="PaintShotData" t="Include">
+              <e p="paint_shot_data_0001.txt" t="Include" />
+              <e p="paint_shot_data_0002.txt" t="Include" />
+            </e>
+            <e p="Script" t="Include">
+              <e p="UbhAutoDespawnParticle.cs" t="Include" />
+              <e p="UbhAutoScaleGUIText.cs" t="Include" />
+              <e p="UbhBackground.cs" t="Include" />
+              <e p="UbhDebugInfo.cs" t="Include" />
+              <e p="UbhDestroyArea.cs" t="Include" />
+              <e p="UbhEmitter.cs" t="Include" />
+              <e p="UbhEnemy.cs" t="Include" />
+              <e p="UbhExplosion.cs" t="Include" />
+              <e p="UbhGameManager.cs" t="Include" />
+              <e p="UbhPlayer.cs" t="Include" />
+              <e p="UbhPlayerBullet.cs" t="Include" />
+              <e p="UbhScore.cs" t="Include" />
+              <e p="UbhSetting.cs" t="Include" />
+              <e p="UbhShowcaseCtrl.cs" t="Include" />
+              <e p="UbhSpaceship.cs" t="Include" />
+              <e p="UbhTitle.cs" t="Include" />
+            </e>
+          </e>
+          <e p="license.txt" t="Include" />
+          <e p="readme.txt" t="Include" />
+          <e p="Script" t="Include">
+            <e p="Attribute" t="Include">
+              <e p="UbhConditionalHideAttribute.cs" t="Include" />
+            </e>
+            <e p="Bullet" t="Include">
+              <e p="UbhBullet.cs" t="Include" />
+              <e p="UbhBulletSimpleModel3d.cs" t="Include" />
+              <e p="UbhBulletSimpleSprite2d.cs" t="Include" />
+              <e p="UbhTentacleBullet.cs" t="Include" />
+            </e>
+            <e p="Controller" t="Include">
+              <e p="UbhShotCtrl.cs" t="Include" />
+            </e>
+            <e p="Editor" t="Include">
+              <e p="UbhBaseShotInspector.cs" t="Include" />
+              <e p="UbhObjectPoolInspector.cs" t="Include" />
+              <e p="UbhPaintShotInspector.cs" t="Include" />
+              <e p="UbhShotCtrlInspector.cs" t="Include" />
+              <e p="UbhTimerInspector.cs" t="Include" />
+            </e>
+            <e p="ShotPattern" t="Include">
+              <e p="UbhBaseShot.cs" t="Include" />
+              <e p="UbhCircleShot.cs" t="Include" />
+              <e p="UbhHoleCircleLockOnShot.cs" t="Include" />
+              <e p="UbhHoleCircleShot.cs" t="Include" />
+              <e p="UbhHomingShot.cs" t="Include" />
+              <e p="UbhLinearLockOnShot.cs" t="Include" />
+              <e p="UbhLinearShot.cs" t="Include" />
+              <e p="UbhNwayLockOnShot.cs" t="Include" />
+              <e p="UbhNwayShot.cs" t="Include" />
+              <e p="UbhOverTakeNwayLockOnShot.cs" t="Include" />
+              <e p="UbhOverTakeNwayShot.cs" t="Include" />
+              <e p="UbhPaintLockOnShot.cs" t="Include" />
+              <e p="UbhPaintShot.cs" t="Include" />
+              <e p="UbhRandomLockOnShot.cs" t="Include" />
+              <e p="UbhRandomShot.cs" t="Include" />
+              <e p="UbhRandomSpiralMultiShot.cs" t="Include" />
+              <e p="UbhRandomSpiralShot.cs" t="Include" />
+              <e p="UbhSinWaveBulletNwayLockOnShot.cs" t="Include" />
+              <e p="UbhSinWaveBulletNwayShot.cs" t="Include" />
+              <e p="UbhSpiralMultiNwayShot.cs" t="Include" />
+              <e p="UbhSpiralMultiShot.cs" t="Include" />
+              <e p="UbhSpiralNwayShot.cs" t="Include" />
+              <e p="UbhSpiralShot.cs" t="Include" />
+              <e p="UbhSpreadNwayLockOnShot.cs" t="Include" />
+              <e p="UbhSpreadNwayShot.cs" t="Include" />
+              <e p="UbhWavingNwayLockOnShot.cs" t="Include" />
+              <e p="UbhWavingNwayShot.cs" t="Include" />
+            </e>
+            <e p="Singleton" t="Include">
+              <e p="UbhBulletManager.cs" t="Include" />
+              <e p="UbhObjectPool.cs" t="Include" />
+              <e p="UbhShotManager.cs" t="Include" />
+              <e p="UbhSingletonMonoBehavior.cs" t="Include" />
+              <e p="UbhTimer.cs" t="Include" />
+            </e>
+            <e p="Utility" t="Include">
+              <e p="UbhMonoBehaviour.cs" t="Include" />
+              <e p="UbhTransformExtention.cs" t="Include" />
+              <e p="UbhUtil.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="OneButtonGame.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp/bin" t="ExcludeRecursive" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2019.1/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.1/resharper-host/local/Transient/ReSharperHost/v191/SolutionCaches/_OneButtonGame.1803727047.00" t="ExcludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/extensions" t="IncludeRecursive" />
+  </component>
+</project>
